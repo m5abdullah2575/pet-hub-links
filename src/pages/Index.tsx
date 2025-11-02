@@ -521,14 +521,109 @@ const Index = () => {
     },
 
 
-
-
     {
      title: "Adjustable Puppy Harness Set",
      description: "Comfortable vest harness with leash for small dogs and cats.",
      url: "https://s.click.aliexpress.com/e/_c4LPvh2P",
      image: "https://ae01.alicdn.com/kf/S5e9c46c49c4c4a3f9c84e5330e7721c9Z.jpg_80x80.jpg",
      category: "Walking",
+    },
+
+    {
+     title: "ENT Veterinary Endoscope Camera Multi-function Flexible Urology Endoscopy Cystoscope For Animal Pet Surgical Equipment",
+     url: "https://s.click.aliexpress.com/e/_c4riCiN5",
+     image: "https:ae01.alicdn.com/kf/S5bbb419fb22247988f60bd4a26726398j.jpg_80x80.jpg",
+    },
+
+
+    {
+     title: "Paw Balm for Cats 50g Cat Dog Paw Protective Cream Pet Nose Protector Moisturizer Pet Crack Feet Repair Accessories for Cats",
+     url: "https://s.click.aliexpress.com/e/_c3DT435p",
+     image: "https://ae01.alicdn.com/kf/S0692f52827604ee4ac9d482652b7cf92I.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Pet Hair Remover Roller Removing Dog Cat Self Cleaning Lint Pet Hair Remover Pet Hair Remov Cleaning One Hand Operate",
+     url: "https://s.click.aliexpress.com/e/_c4d2qh9D",
+     image: "https://ae01.alicdn.com/kf/Sbe550ead713a43b8b627f8ab264b893bD.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Pet Hair Remover Long Handle Pet Hair Remover Brush Dog Cat Hair Cleaner Remover Carpet Bed Hair Cleaning Tools Pet Supplies",
+     url: "https://s.click.aliexpress.com/e/_c3povFKj",
+     image: "https:/ae01.alicdn.com/kf/Sec8e40a77514412fae10a6894a43c05da.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Easy Walking Reflective No-Pull Dog Harness With Handle For Training",
+     url: "https://s.click.aliexpress.com/e/_c4TaBGZz",
+     image: "https://ae01.alicdn.com/kf/S00a5571c39c94d20ae3e50b520eb56baR.jpg_80x80.jpg",
+    },
+
+    {
+     title: "4pcs Water-Resistant Dog Shoes For Small Dogs - Protect Your Pet's Paws And Keep Them Dry,Outdoor rain boots for dogs",
+     url: "https://s.click.aliexpress.com/e/_c3EtkazV",
+     image: "https:ae01.alicdn.com/kf/S97f1797e2e43491b8f2c4935b36dee17i.png_80x80.png",
+    },
+
+    {
+     title: "Soft Silicone Dog Toothbrush 360° Finger Toothbrush for Dogs Cats Durable Pet Finger Brush Tooth Cleaning Tool for All Breeds",
+     url: "https://s.click.aliexpress.com/e/_c3PppQ8L",
+     image: "https://ae01.alicdn.com/kf/Sd9a227e003af4f7695233c82577ebc19P.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Pet Grooming Cleaning Gloves Dog Cat Bathing Shampoo Glove Scrubber Magic Dishwashing Cleanner Sponge Silicon Hair Removal Glove",
+     url: "https://s.click.aliexpress.com/e/_c4DPRsyT",
+     image: "https:////ae01.alicdn.com/kf/Sc07078241a1c447d887ce2be6a0242282.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Pet Lick Silicone Mat for Dogs Pet Slow Food Plate Dog Bathing Distraction Silicone Dog Sucker Food Training Dog Feeder Supplies",
+     url: "https://s.click.aliexpress.com/e/_c4lUb5PV",
+     image: "https://ae01.alicdn.com/kf/S92c03f687ad54936945a24e040962e0e9.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Super Soft Pet Finger Toothbrush Teddy Dog Brush Bad Breath Tartar Teeth Care Tool Dog Cat Cleaning Silicagel Pet Supplies",
+     url: "https://s.click.aliexpress.com/e/_c3oAMjSx",
+     image: "https://ae01.alicdn.com/kf/S4a54fb37a3c04b1e82ff5c6b8cd866b7R.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Little yellow duck pet feeding device, cat and dog interactive toy training device, automatic feeder A-DH",
+     url: "https://s.click.aliexpress.com/e/_c3h6rNcn",
+     image: "https://ae01.alicdn.com/kf/S8f2158cb658e4d539742410e3a4597a1a.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Pet Can Lid Fresh Silicone Cat and Dog Can Seal Lid Universal Adjustable Seal Lid + Spoon Food Storage Tool",
+     url: "https://s.click.aliexpress.com/e/_c3tGNLZh",
+     image: "https://ae01.alicdn.com/kf/Sf0f73c2dbc19445bbf0dddf5d172572dp.png_80x80.png",
+    },
+
+    {
+     title: "New Pet Dog Toy Interactive Rubber Balls for Small Large Dogs Puppy Cat Chewing Toys Pet Tooth Cleaning Indestructible Dog Ball",
+     url: "https://s.click.aliexpress.com/e/_c4WVbqnh",
+     image: "https://ae01.alicdn.com/kf/Sc5a9ed9793c9494c9961125310ba5f32H.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Mini Pet Anti-lost Smart GPS Tracker Key Kids Bag Finder Dog Cat Pet for IOS/ Android Locator Bluetooth Tracker Device Reminder",
+     url: "https://s.click.aliexpress.com/e/_c4qNA9BN",
+     image: "https://sae01.alicdn.com/kf/Sd3295e086fda4420bbeaf74b4137bbc3W.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Pet Chew Toy TPR Bite-resistance Beer Bottle with Tennis Ball Toy Puppy Teeth Grinding dog Chewing Squeaky Interactive Toys",
+     url: "https://s.click.aliexpress.com/e/_c4FuaZVv",
+     image: "https://ae01.alicdn.com/kf/S78d40704363142bfb407ccc0e28d6819S.jpg_80x80.jpg",
+    },
+
+    {
+     title: "Dog Muzzle, Soft Mesh Covered Muzzles Poisoned Bait Protection With Adjustable Straps, Prevent Biting Chewing And Licking",
+     url: "https://s.click.aliexpress.com/e/_c3scGP6L",
+     image: "https://ae01.alicdn.com/kf/S8cf4f8a8fbd140068edb5321ec7bfdfbI.jpg_80x80.jpg",
     },
 
 
